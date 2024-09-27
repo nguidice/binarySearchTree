@@ -1,5 +1,4 @@
 //Nicholas Guidice
-//CS 375 Program 3 "Binary Search Tree"
 
 //Import Libraries 
 #include <iostream>
